@@ -1,16 +1,15 @@
 # startup_namer
 
-A new Flutter application.
+A Flutter application. It uses a 3rd-party package english_words that has a list of the most commonly used english words. Then it grabs two of those words and pairs them together in pascal case. User is able to scroll through the list of names and favorite the ones he or she likes best. Project based on the codelab project.
 
-## Getting Started
+## Future Plans
 
-This project is a starting point for a Flutter application.
+[ ] Sort Favorited list Alphabetically
+[ ] Save list
+[ ] Load in previously saved list
 
-A few resources to get you started if this is your first Flutter project:
+### More Info
+
+If you want to make the base of this application from scratch the codelab below will take you there and walk you through making the application.
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
